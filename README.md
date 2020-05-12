@@ -6,3 +6,6 @@ demo before they launch the game. Therefore, content such as videos and reviews 
 people can have a general idea about players’ gaming experience before they buy the product. Reviews at Steam Store have a good 
 metadata ecosystem for data analytics (e.g. reviews have a “helpful” score, “funny” score, number of hours the reviewer played 
 the game…etc.).
+
+- Data Source: https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/
+- Code reference: https://github.com/alfredtangsw/steamvox
